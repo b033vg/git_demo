@@ -3,4 +3,4 @@ project(git_demo)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(git_demo main.cpp)
+add_executable(git_demo main.cpp subfunc.cpp)
